@@ -1,0 +1,31 @@
+body{background-color: #03de93}
+p{
+font-family: fantasy; 
+font-size: 28px ;
+font-weight: bold;
+
+
+
+}
+
+.popo{
+font-family: fantasy; 
+font-size: 28px ;
+font-weight: bold;
+width: 600px;
+height:400px;
+border: 10px double #c277f0;
+background-color: #ffbb02 ;
+border-radius: 67px;
+}
+
+img{
+width: 350px;
+border-radius:777px;
+}
+
+
+
+
+
+
